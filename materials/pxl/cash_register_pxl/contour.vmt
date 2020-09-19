@@ -1,0 +1,18 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	 "pxl\cash_register_pxl\contour"
+	"$bumpmap"	 "pxl\cash_register_pxl\normal"
+	"$selfillummask"	 "pxl\cash_register_pxl\light"
+
+	"$selfillum" "1"
+	"$selfillumtint"	"[ 0 33 231 ]"
+
+	"$phong" "1"
+	"$phongexponent" "60"
+	"$phongboost"	".2"
+	"$phongfresnelranges"	"[.2 4 1]"
+
+	"$rimlight" "1"												
+	"$rimlightexponent" "1"				
+	"$rimlightboost" ".3"
+}

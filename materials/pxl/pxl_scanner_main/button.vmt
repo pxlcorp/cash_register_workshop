@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pxl/pxl_scanner_main/button"
+	"$bumpmap" "pxl/pxl_scanner_main/normal"
+	"$phong"		"1"
+	"$phongexponent"		"60"
+	"$phongboost"		"10"
+	"$phongfresnelranges"		"[0.1 0.7 0.5]"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"5"
+	"$rimlightboost"		"0.2"
+
+
+
+}

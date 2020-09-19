@@ -1,0 +1,11 @@
+{
+	"title" 	:	"Pxl Cash Register",
+	"type"  	:	"entity",
+	"tags"  	:	[ "roleplay", "realism" ],
+	"ignore"	:	[
+	        	"*.cmd",
+	        	"*.gma",
+	        	"*.svg",
+	        	"addonid.txt"
+	]
+}

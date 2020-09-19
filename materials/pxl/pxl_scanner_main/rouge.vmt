@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+ "$basetexture" "pxl/pxl_scanner_main/rouge"
+    "$selfillum" 1  
+	"$translucent" 1
+    
+
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "100"
+      }
+   }
+}

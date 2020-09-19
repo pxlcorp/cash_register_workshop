@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pxl/pxl_scanner_main/corp1"
+	"$translucent" 1
+}

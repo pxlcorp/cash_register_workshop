@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "pxl/Anti_theft_systems/barre_pxl"
+	"$bumpmap" "pxl/Anti_theft_systems/normal"
+	"$phong"		"1"
+	"$phongexponent"		"20"
+	"$phongboost"		"10"
+	"$phongfresnelranges"		"[0.1 0.7 0.5]"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"5"
+	"$rimlightboost"		"0.2"
+
+	
+
+}
